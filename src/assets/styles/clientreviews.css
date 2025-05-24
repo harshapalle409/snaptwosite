@@ -1,0 +1,45 @@
+.snaptwosite-reviews-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.snaptwosite-reviews-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d4ed8;
+  margin-bottom: 40px;
+}
+
+.snaptwosite-reviews-grid {
+  display: grid;
+  gap: 24px;
+  max-width: 1000px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.snaptwosite-review-card {
+  background-color: #f9fafb;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.snaptwosite-review-feedback {
+  font-size: 15px;
+  color: #374151;
+  margin-bottom: 12px;
+}
+
+.snaptwosite-review-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 4px;
+}
+
+.snaptwosite-review-company {
+  font-size: 14px;
+  color: #6b7280;
+}

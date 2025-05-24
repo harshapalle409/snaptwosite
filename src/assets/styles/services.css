@@ -1,0 +1,45 @@
+.snaptwosite-services-section {
+  padding: 60px 20px;
+  background-color: #f9fafb;
+  text-align: center;
+}
+
+.snaptwosite-services-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d4ed8;
+  margin-bottom: 40px;
+}
+
+.snaptwosite-services-grid {
+  display: grid;
+  gap: 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.snaptwosite-service-card {
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.snaptwosite-service-card:hover {
+  transform: translateY(-5px);
+}
+
+.snaptwosite-service-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 10px;
+}
+
+.snaptwosite-service-description {
+  font-size: 14px;
+  color: #374151;
+  line-height: 1.5;
+}

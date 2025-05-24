@@ -1,0 +1,24 @@
+.snaptwosite-contact-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.snaptwosite-contact-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d4ed8;
+  margin-bottom: 16px;
+}
+
+.snaptwosite-contact-subtitle {
+  font-size: 16px;
+  color: #374151;
+  margin-bottom: 24px;
+}
+
+.snaptwosite-contact-info {
+  font-size: 15px;
+  color: #111827;
+  line-height: 1.8;
+}
