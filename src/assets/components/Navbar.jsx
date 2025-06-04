@@ -4,7 +4,7 @@ import '../styles/navbar.css';
 const Navbar = () => {
   return (
     <header className="nav-wrapper">
-      <div className="nav-logo">SnapTwoSite</div>
+      <div className="nav-logo">SnapToSite</div>
       <nav className="nav-links">
         <a href="#services">Services</a>
         <a href="#about">About</a>

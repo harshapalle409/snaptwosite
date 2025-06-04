@@ -7,7 +7,7 @@ const ClientReviews = () => {
       name: 'Dr. Neha Rao',
       company: 'Neha Dental Clinic',
       feedback:
-        'SnapTwoSite delivered an elegant, mobile-friendly website for my clinic. Patients love the booking ease!',
+        'snaptosite delivered an elegant, mobile-friendly website for my clinic. Patients love the booking ease!',
     },
     {
       name: 'Hari K.',
@@ -24,14 +24,14 @@ const ClientReviews = () => {
   ];
 
   return (
-    <section className="snaptwosite-reviews-section" id="reviews">
-      <h2 className="snaptwosite-reviews-title">What Our Clients Say</h2>
-      <div className="snaptwosite-reviews-grid">
+    <section className="snaptosite-reviews-section" id="reviews">
+      <h2 className="snaptosite-reviews-title">What Our Clients Say</h2>
+      <div className="snaptosite-reviews-grid">
         {reviews.map((review, index) => (
-          <div className="snaptwosite-review-card" key={index}>
-            <p className="snaptwosite-review-feedback">"{review.feedback}"</p>
-            <h4 className="snaptwosite-review-name">– {review.name}</h4>
-            <p className="snaptwosite-review-company">{review.company}</p>
+          <div className="snaptosite-review-card" key={index}>
+            <p className="snaptosite-review-feedback">"{review.feedback}"</p>
+            <h4 className="snaptosite-review-name">– {review.name}</h4>
+            <p className="snaptosite-review-company">{review.company}</p>
           </div>
         ))}
       </div>

@@ -26,23 +26,23 @@ const WorkSamples = () => {
   ];
 
   return (
-    <section className="snaptwosite-worksamples-section" id="worksamples">
-      <h2 className="snaptwosite-worksamples-title">Our Work Samples</h2>
-      <div className="snaptwosite-worksamples-grid">
+    <section className="snaptosite-worksamples-section" id="worksamples">
+      <h2 className="snaptosite-worksamples-title">Our Work Samples</h2>
+      <div className="snaptosite-worksamples-grid">
         {samples.map((sample, index) => (
           <a
             href={sample.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="snaptwosite-sample-card"
+            className="snaptosite-sample-card"
             key={index}
           >
             <img
               src={sample.image}
               alt={sample.title}
-              className="snaptwosite-sample-image"
+              className="snaptosite-sample-image"
             />
-            <h3 className="snaptwosite-sample-title">{sample.title}</h3>
+            <h3 className="snaptosite-sample-title">{sample.title}</h3>
           </a>
         ))}
       </div>

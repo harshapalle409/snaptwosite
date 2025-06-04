@@ -30,13 +30,13 @@ const Services = () => {
   ];
 
   return (
-    <section className="snaptwosite-services-section" id="services">
-      <h2 className="snaptwosite-services-title">Our Services</h2>
-      <div className="snaptwosite-services-grid">
+    <section className="snaptosite-services-section" id="services">
+      <h2 className="snaptosite-services-title">Our Services</h2>
+      <div className="snaptosite-services-grid">
         {services.map((service, index) => (
-          <div className="snaptwosite-service-card" key={index}>
-            <h3 className="snaptwosite-service-name">{service.title}</h3>
-            <p className="snaptwosite-service-description">{service.description}</p>
+          <div className="snaptosite-service-card" key={index}>
+            <h3 className="snaptosite-service-name">{service.title}</h3>
+            <p className="snaptosite-service-description">{service.description}</p>
           </div>
         ))}
       </div>

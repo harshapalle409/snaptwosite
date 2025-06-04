@@ -1,24 +1,24 @@
-.snaptwosite-clients-section {
+.snaptosite-clients-section {
   padding: 50px 20px;
   background-color: #f3f4f6;
   text-align: center;
 }
 
-.snaptwosite-clients-title {
+.snaptosite-clients-title {
   font-size: 26px;
   font-weight: bold;
   color: #1d4ed8;
   margin-bottom: 30px;
 }
 
-.snaptwosite-clients-logos {
+.snaptosite-clients-logos {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
 }
 
-.snaptwosite-client-logo {
+.snaptosite-client-logo {
   background-color: #ffffff;
   padding: 14px 20px;
   border-radius: 8px;

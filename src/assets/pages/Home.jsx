@@ -13,7 +13,7 @@ const Home = () => {
       <section className="hero-section">
         <h1 className="hero-title">From Local to Digital – We Build Your Online Face.</h1>
         <p className="hero-subtitle">
-          SnapTwoSite empowers small businesses with affordable, modern websites to build trust and attract more customers.
+          SnapToSite empowers small businesses with affordable, modern websites to build trust and attract more customers.
         </p>
       </section>
 

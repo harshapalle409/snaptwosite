@@ -1,45 +1,45 @@
-.snaptwosite-footer {
+.snaptosite-footer {
   background-color: #1f2937;
   color: #e5e7eb;
   padding: 40px 20px;
   text-align: center;
 }
 
-.snaptwosite-footer-logo {
+.snaptosite-footer-logo {
   font-size: 22px;
   font-weight: bold;
   color: #3b82f6;
   margin-bottom: 8px;
 }
 
-.snaptwosite-footer-tagline {
+.snaptosite-footer-tagline {
   font-size: 14px;
   margin-bottom: 12px;
 }
 
-.snaptwosite-footer-contact {
+.snaptosite-footer-contact {
   font-size: 13px;
   margin-bottom: 14px;
 }
 
-.snaptwosite-footer-socials {
+.snaptosite-footer-socials {
   display: flex;
   justify-content: center;
   gap: 16px;
   margin-bottom: 20px;
 }
 
-.snaptwosite-footer-socials a {
+.snaptosite-footer-socials a {
   color: #e5e7eb;
   font-size: 14px;
   transition: color 0.3s ease;
 }
 
-.snaptwosite-footer-socials a:hover {
+.snaptosite-footer-socials a:hover {
   color: #3b82f6;
 }
 
-.snaptwosite-footer-copy {
+.snaptosite-footer-copy {
   font-size: 12px;
   color: #9ca3af;
 }
